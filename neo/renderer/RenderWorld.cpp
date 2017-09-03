@@ -31,7 +31,7 @@ If you have questions concerning this license or the applicable additional terms
 
 #include "tr_local.h"
 
-#include "vr\vr.h" // koz
+#include "vr/Vr.h" // koz
 #include "../d3xp/Game_local.h" // koz
 #include "../d3xp/anim/Anim.h"// koz
 
