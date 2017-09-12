@@ -967,7 +967,7 @@ void iVr::HMDTrackStatic( bool is3D )
 			return;
 		}
 		
-		common->Printf( "is3d = %d\n", is3D );
+		//common->Printf( "is3d = %d\n", is3D );
 		if ( !is3D )
 		{
 			if ( HMDRenderQuad( commonVr->hmdCurrentRender[0], commonVr->hmdCurrentRender[1] ) ) return;
